@@ -22,9 +22,10 @@
 
 ### 📌 Projects
 
+* **[Body Double](https://github.com/kurkul608/body-double)** — a self-hosted AI tutor built for ADHD brains. It teaches the open course [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch) one lesson at a time. Early beta.
+* **[job-tracker-mcp](https://github.com/kurkul608/job-tracker-mcp)** — local-first MCP server for tracking job applications, companies, and vacancies: 19 tools over SQLite, built with TypeScript and the official MCP SDK.
 * **[molchanov.blog](https://github.com/kurkul608/molchanov-blog)** — my blog. Astro + React + Feature-Sliced Design on Cloudflare Pages, with a free "Markdown for Agents" layer for AI crawlers and IndexNow on every deploy.
 * **Multi-agent research agent** — orchestrator + 8 parallel subagents, hypothesis checks, SQLite knowledge base. Open-source version coming.
-* **AI tutor** — a local app that teaches a 523-lesson AI engineering course with an AI tutor next to each lesson. Open-source version coming.
 
 More on [molchanov.blog/projects](https://molchanov.blog/projects/).
 
